@@ -1,0 +1,737 @@
+Archive member included because of file (symbol)
+
+C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+                              GoogleVoiceAssiantantBasedSmartDoorLock.o (serial_select)
+C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+                              GoogleVoiceAssiantantBasedSmartDoorLock.o (wifi_http)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                              GoogleVoiceAssiantantBasedSmartDoorLock.o (__mulsi3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                              C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o) (__divmodhi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                              GoogleVoiceAssiantantBasedSmartDoorLock.o (__udivmodsi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                              GoogleVoiceAssiantantBasedSmartDoorLock.o (__divmodsi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              GoogleVoiceAssiantantBasedSmartDoorLock.o (__do_copy_data)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              GoogleVoiceAssiantantBasedSmartDoorLock.o (__do_clear_bss)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atoi.o)
+                              C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o) (atoi)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr.o)
+                              C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o) (strchr)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+                              C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o) (strcpy)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncasecmp.o)
+                              C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o) (strncasecmp)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+                              C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o) (strncpy)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr.o)
+                              C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o) (strstr)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+                              GoogleVoiceAssiantantBasedSmartDoorLock.o (itoa)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                              GoogleVoiceAssiantantBasedSmartDoorLock.o (ltoa)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mul10.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atoi.o) (__mulhi_const_10)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o) (strrev)
+
+Allocating common symbols
+Common symbol       size              file
+
+jd                  0x2               C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+mk                  0x1               C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+ah                  0x2               C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+wxname              0xc               C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+wxpwsd              0xc               C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+wifi_buffer         0xa0              C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+hcode               0x2               C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+UQFront             0x1               GoogleVoiceAssiantantBasedSmartDoorLock.o
+UQEnd               0x1               GoogleVoiceAssiantantBasedSmartDoorLock.o
+URBuff              0x12c             GoogleVoiceAssiantantBasedSmartDoorLock.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD GoogleVoiceAssiantantBasedSmartDoorLock.o
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a
+LOAD C:\WinAVR-20100110\avr\include\avr\libefsio.a
+LOAD C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x104a
+ *(.vectors)
+ .vectors       0x00000000       0x54 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+ .progmem.data  0x00000054       0x18 C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+                0x0000006c                . = ALIGN (0x2)
+                0x0000006c                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000006c        0x0 linker stubs
+ *(.trampolines*)
+                0x0000006c                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000006c                __ctors_start = .
+ *(.ctors)
+                0x0000006c                __ctors_end = .
+                0x0000006c                __dtors_start = .
+ *(.dtors)
+                0x0000006c                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000006c        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x0000006c                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000006c        0xc c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000078       0x16 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00000078                __do_copy_data
+ .init4         0x0000008e       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x0000008e                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000009e        0x8 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x000000a6        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x000000a6                __vector_1
+                0x000000a6                __vector_12
+                0x000000a6                __bad_interrupt
+                0x000000a6                __vector_6
+                0x000000a6                __vector_3
+                0x000000a6                __vector_11
+                0x000000a6                __vector_17
+                0x000000a6                __vector_19
+                0x000000a6                __vector_7
+                0x000000a6                __vector_5
+                0x000000a6                __vector_4
+                0x000000a6                __vector_9
+                0x000000a6                __vector_2
+                0x000000a6                __vector_15
+                0x000000a6                __vector_8
+                0x000000a6                __vector_14
+                0x000000a6                __vector_10
+                0x000000a6                __vector_16
+                0x000000a6                __vector_18
+                0x000000a6                __vector_20
+ .text          0x000000aa      0x6ac GoogleVoiceAssiantantBasedSmartDoorLock.o
+                0x00000372                servo_init
+                0x0000022c                serial_available
+                0x0000046c                lcd_data
+                0x00000712                serial_num
+                0x0000068a                lcd_num
+                0x00000480                lcd_gotoxy
+                0x000004a8                lcd_putc
+                0x0000035c                urclear
+                0x00000398                set_90
+                0x000002a6                serial_nread
+                0x00000498                lcd_clear
+                0x000004a0                lcd_home
+                0x000002d2                __vector_13
+                0x000001e0                serial_string_P
+                0x000001cc                serial_string
+                0x000004d2                lcd_string
+                0x000001f4                s_readbuffer
+                0x000006ce                serial_numl
+                0x00000490                lcd_getxy
+                0x000001c4                serial_char
+                0x0000038e                set_0
+                0x00000280                serial_nreadw
+                0x000004ea                lcd_puts_p
+                0x00000522                lcd_init
+                0x00000590                main
+                0x00000506                lcd_string_X
+                0x00000270                s_clearbuffer
+                0x000000aa                serial_init
+                0x0000017a                serial_read
+                0x000003a2                set_180
+                0x00000458                lcd_command
+                0x000000fe                serial_finit
+ .text          0x00000756      0x438 C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+                0x00000aa8                serial_select
+                0x000009ee                direction
+                0x0000082e                write
+                0x00000756                read
+                0x00000b62                compare
+                0x00000b88                str_num
+                0x00000afc                jsonparser
+ .text          0x00000b8e      0x1f6 C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+                0x00000c52                wifi_http
+                0x00000b9a                wifi_restart
+                0x00000d7e                reconfigure
+                0x00000b94                wifi_status
+                0x00000bc6                WaitForWResponse
+                0x00000b8e                wifi_off
+                0x00000cda                wifi_connect
+                0x00000d52                wifi_init
+ .text          0x00000d84        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000d84        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000d84        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000d84        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000d84        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000d84        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000d84        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000d84        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000d84        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atoi.o)
+ .text          0x00000d84        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr.o)
+ .text          0x00000d84        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .text          0x00000d84        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncasecmp.o)
+ .text          0x00000d84        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .text          0x00000d84        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr.o)
+ .text          0x00000d84        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .text          0x00000d84        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .text          0x00000d84        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mul10.o)
+ .text          0x00000d84        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+                0x00000d84                . = ALIGN (0x2)
+ *(.text.*)
+ .text.libgcc   0x00000d84       0x3e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                0x00000d84                __mulsi3
+ .text.libgcc   0x00000dc2       0x26 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                0x00000dc2                __divmodhi4
+                0x00000dc2                _div
+ .text.libgcc   0x00000de8       0x44 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                0x00000de8                __udivmodsi4
+ .text.libgcc   0x00000e2c       0x36 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                0x00000e2c                __divmodsi4
+ .text.libgcc   0x00000e62        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000e62        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000e62        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000e62       0x28 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                0x00000e62                __udivmodhi4
+ .text.avr-libc
+                0x00000e8a       0x3c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atoi.o)
+                0x00000e8a                atoi
+ .text.avr-libc
+                0x00000ec6       0x16 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr.o)
+                0x00000ec6                strchr
+ .text.avr-libc
+                0x00000edc        0xe c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+                0x00000edc                strcpy
+ .text.avr-libc
+                0x00000eea       0x30 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncasecmp.o)
+                0x00000eea                strncasecmp
+ .text.avr-libc
+                0x00000f1a       0x1e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+                0x00000f1a                strncpy
+ .text.avr-libc
+                0x00000f38       0x34 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr.o)
+                0x00000f38                strstr
+ .text.avr-libc
+                0x00000f6c       0x42 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+                0x00000f6c                itoa
+ .text.avr-libc
+                0x00000fae       0x68 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                0x00000fae                ltoa
+ .text.avr-libc
+                0x00001016       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mul10.o)
+                0x00001016                __mulhi_const_10
+ .text.avr-libc
+                0x00001026       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+                0x00001026                strrev
+                0x00001046                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001046        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x00001046                exit
+                0x00001046                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001046        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000104a                _etext = .
+
+.data           0x00800060       0x9c load address 0x0000104a
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060       0x89 GoogleVoiceAssiantantBasedSmartDoorLock.o
+ .data          0x008000e9        0x3 C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+ .data          0x008000ec       0x10 C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+ .data          0x008000fc        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .data          0x008000fc        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x008000fc        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x008000fc        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x008000fc        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x008000fc        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x008000fc        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x008000fc        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x008000fc        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atoi.o)
+ .data          0x008000fc        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr.o)
+ .data          0x008000fc        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .data          0x008000fc        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncasecmp.o)
+ .data          0x008000fc        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .data          0x008000fc        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr.o)
+ .data          0x008000fc        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .data          0x008000fc        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .data          0x008000fc        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mul10.o)
+ .data          0x008000fc        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x008000fc                . = ALIGN (0x2)
+                0x008000fc                _edata = .
+                0x008000fc                PROVIDE (__data_end, .)
+
+.bss            0x008000fc      0x1ef
+                0x008000fc                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x008000fc        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x008000fc        0x0 GoogleVoiceAssiantantBasedSmartDoorLock.o
+ .bss           0x008000fc        0x0 C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+ .bss           0x008000fc        0x2 C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+                0x008000fc                otacount
+ .bss           0x008000fe        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x008000fe        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x008000fe        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x008000fe        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x008000fe        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x008000fe        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x008000fe        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x008000fe        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x008000fe        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atoi.o)
+ .bss           0x008000fe        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr.o)
+ .bss           0x008000fe        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .bss           0x008000fe        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncasecmp.o)
+ .bss           0x008000fe        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .bss           0x008000fe        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr.o)
+ .bss           0x008000fe        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .bss           0x008000fe        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .bss           0x008000fe        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mul10.o)
+ .bss           0x008000fe        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x008000fe      0x12e GoogleVoiceAssiantantBasedSmartDoorLock.o
+                0x008000fe                UQFront
+                0x008000ff                UQEnd
+                0x00800100                URBuff
+ COMMON         0x0080022c       0xbf C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+                0x0080022c                jd
+                0x0080022e                mk
+                0x0080022f                ah
+                0x00800231                wxname
+                0x0080023d                wxpwsd
+                0x00800249                wifi_buffer
+                0x008002e9                hcode
+                0x008002eb                PROVIDE (__bss_end, .)
+                0x0000104a                __data_load_start = LOADADDR (.data)
+                0x000010e6                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008002eb        0x0
+                0x008002eb                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008002eb                PROVIDE (__noinit_end, .)
+                0x008002eb                _end = .
+                0x008002eb                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0x60
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 GoogleVoiceAssiantantBasedSmartDoorLock.o
+ .debug_aranges
+                0x00000020       0x20 C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+ .debug_aranges
+                0x00000040       0x20 C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+
+.debug_pubnames
+                0x00000000      0x363
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000      0x213 GoogleVoiceAssiantantBasedSmartDoorLock.o
+ .debug_pubnames
+                0x00000213       0x6c C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+ .debug_pubnames
+                0x0000027f       0xe4 C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+
+.debug_info     0x00000000     0x11b6
+ *(.debug_info)
+ .debug_info    0x00000000      0xaa0 GoogleVoiceAssiantantBasedSmartDoorLock.o
+ .debug_info    0x00000aa0      0x24b C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+ .debug_info    0x00000ceb      0x4cb C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0x6da
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x3c7 GoogleVoiceAssiantantBasedSmartDoorLock.o
+ .debug_abbrev  0x000003c7      0x134 C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+ .debug_abbrev  0x000004fb      0x1df C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+
+.debug_line     0x00000000     0x1106
+ *(.debug_line)
+ .debug_line    0x00000000      0xa00 GoogleVoiceAssiantantBasedSmartDoorLock.o
+ .debug_line    0x00000a00      0x3ad C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+ .debug_line    0x00000dad      0x359 C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+
+.debug_frame    0x00000000      0x340
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x230 GoogleVoiceAssiantantBasedSmartDoorLock.o
+ .debug_frame   0x00000230       0x80 C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+ .debug_frame   0x000002b0       0x90 C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+
+.debug_str      0x00000000      0x4f4
+ *(.debug_str)
+ .debug_str     0x00000000      0x326 GoogleVoiceAssiantantBasedSmartDoorLock.o
+                                0x379 (size before relaxing)
+ .debug_str     0x00000326       0xbc C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+                                0x152 (size before relaxing)
+ .debug_str     0x000003e2      0x112 C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+                                0x1e2 (size before relaxing)
+
+.debug_loc      0x00000000      0x983
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x572 GoogleVoiceAssiantantBasedSmartDoorLock.o
+ .debug_loc     0x00000572      0x2a6 C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+ .debug_loc     0x00000818      0x16b C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(GoogleVoiceAssiantantBasedSmartDoorLock.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x78
+ .debug_ranges  0x00000000       0x30 GoogleVoiceAssiantantBasedSmartDoorLock.o
+ .debug_ranges  0x00000030       0x48 C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+
+Cross Reference Table
+
+Symbol                                            File
+UQEnd                                             GoogleVoiceAssiantantBasedSmartDoorLock.o
+UQFront                                           GoogleVoiceAssiantantBasedSmartDoorLock.o
+URBuff                                            GoogleVoiceAssiantantBasedSmartDoorLock.o
+WaitForWResponse                                  C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+__bad_interrupt                                   c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__bss_end                                         c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+__bss_start                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+__data_end                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+__data_load_start                                 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+__data_start                                      c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+__divmodhi4                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+__divmodsi4                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                                                  GoogleVoiceAssiantantBasedSmartDoorLock.o
+__do_clear_bss                                    c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+                                                  GoogleVoiceAssiantantBasedSmartDoorLock.o
+__do_copy_data                                    c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+                                                  GoogleVoiceAssiantantBasedSmartDoorLock.o
+__heap_end                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__init                                            c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__mulhi_const_10                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mul10.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atoi.o)
+__mulsi3                                          c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                                                  GoogleVoiceAssiantantBasedSmartDoorLock.o
+__stack                                           c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__udivmodhi4                                      c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+__udivmodsi4                                      c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                                                  GoogleVoiceAssiantantBasedSmartDoorLock.o
+__vector_1                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_10                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_11                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_12                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_13                                       GoogleVoiceAssiantantBasedSmartDoorLock.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_14                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_15                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_16                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_17                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_18                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_19                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_2                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_20                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_3                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_4                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_5                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_6                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_7                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_8                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_9                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_default                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vectors                                         c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+_div                                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+_exit                                             c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ah                                                C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+atoi                                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atoi.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+compare                                           C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+                                                  GoogleVoiceAssiantantBasedSmartDoorLock.o
+direction                                         C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+exit                                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+hcode                                             C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+itoa                                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+                                                  GoogleVoiceAssiantantBasedSmartDoorLock.o
+jd                                                C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+jsonparser                                        C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+                                                  GoogleVoiceAssiantantBasedSmartDoorLock.o
+lcd_clear                                         GoogleVoiceAssiantantBasedSmartDoorLock.o
+lcd_command                                       GoogleVoiceAssiantantBasedSmartDoorLock.o
+lcd_data                                          GoogleVoiceAssiantantBasedSmartDoorLock.o
+lcd_getxy                                         GoogleVoiceAssiantantBasedSmartDoorLock.o
+lcd_gotoxy                                        GoogleVoiceAssiantantBasedSmartDoorLock.o
+lcd_home                                          GoogleVoiceAssiantantBasedSmartDoorLock.o
+lcd_init                                          GoogleVoiceAssiantantBasedSmartDoorLock.o
+lcd_num                                           GoogleVoiceAssiantantBasedSmartDoorLock.o
+lcd_putc                                          GoogleVoiceAssiantantBasedSmartDoorLock.o
+lcd_puts_p                                        GoogleVoiceAssiantantBasedSmartDoorLock.o
+lcd_string                                        GoogleVoiceAssiantantBasedSmartDoorLock.o
+lcd_string_X                                      GoogleVoiceAssiantantBasedSmartDoorLock.o
+ltoa                                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                                                  GoogleVoiceAssiantantBasedSmartDoorLock.o
+main                                              GoogleVoiceAssiantantBasedSmartDoorLock.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+mk                                                C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+otacount                                          C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+read                                              C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+reconfigure                                       C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+s_clearbuffer                                     GoogleVoiceAssiantantBasedSmartDoorLock.o
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+s_readbuffer                                      GoogleVoiceAssiantantBasedSmartDoorLock.o
+serial_available                                  GoogleVoiceAssiantantBasedSmartDoorLock.o
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+serial_char                                       GoogleVoiceAssiantantBasedSmartDoorLock.o
+serial_finit                                      GoogleVoiceAssiantantBasedSmartDoorLock.o
+serial_init                                       GoogleVoiceAssiantantBasedSmartDoorLock.o
+serial_nread                                      GoogleVoiceAssiantantBasedSmartDoorLock.o
+serial_nreadw                                     GoogleVoiceAssiantantBasedSmartDoorLock.o
+serial_num                                        GoogleVoiceAssiantantBasedSmartDoorLock.o
+serial_numl                                       GoogleVoiceAssiantantBasedSmartDoorLock.o
+serial_read                                       GoogleVoiceAssiantantBasedSmartDoorLock.o
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+serial_select                                     C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+                                                  GoogleVoiceAssiantantBasedSmartDoorLock.o
+serial_string                                     GoogleVoiceAssiantantBasedSmartDoorLock.o
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+serial_string_P                                   GoogleVoiceAssiantantBasedSmartDoorLock.o
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+servo_init                                        GoogleVoiceAssiantantBasedSmartDoorLock.o
+set_0                                             GoogleVoiceAssiantantBasedSmartDoorLock.o
+set_180                                           GoogleVoiceAssiantantBasedSmartDoorLock.o
+set_90                                            GoogleVoiceAssiantantBasedSmartDoorLock.o
+str_num                                           C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+strchr                                            c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+strcpy                                            c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+strncasecmp                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncasecmp.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+strncpy                                           c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+strrev                                            c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+strstr                                            c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+urclear                                           GoogleVoiceAssiantantBasedSmartDoorLock.o
+wifi_buffer                                       C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+wifi_connect                                      C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+                                                  GoogleVoiceAssiantantBasedSmartDoorLock.o
+wifi_http                                         C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+                                                  GoogleVoiceAssiantantBasedSmartDoorLock.o
+wifi_init                                         C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+                                                  GoogleVoiceAssiantantBasedSmartDoorLock.o
+wifi_off                                          C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+wifi_restart                                      C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+wifi_status                                       C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+write                                             C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+wxname                                            C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
+wxpwsd                                            C:\WinAVR-20100110\avr\include\avr\libixabwifiadvanced.a(wifi.o)
